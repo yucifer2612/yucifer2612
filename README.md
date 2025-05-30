@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @yucifer2612
-- 👀 I’m interested in trading
-- 🌱 I’m currently learning the inner cicle trading
-- 💞️ I’m looking to collaborate on quotex
+
 - 📫 How to reach me youcefmaghraoui0@gmail.com
 
 <!---
